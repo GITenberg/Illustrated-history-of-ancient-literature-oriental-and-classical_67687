@@ -1,5 +1,8 @@
 _repo: Illustrated-history-of-ancient-literature-oriental-and-classical_67687
 _version: 0.1.0
+covers:
+- cover_type: archival
+  image_path: 67687-h/images/i_cover.jpg
 creator:
   author:
     agent_name: Quackenbos, John D. (John Duncan)
@@ -9,6 +12,8 @@ creator:
     gutenberg_agent_id: '54396'
     url: http://www.gutenberg.org/2009/agents/54396
 description: ''
+edition_identifiers:
+  edition_id: http://www.gutenberg.org/ebooks/67687#Illustrated-history-of-ancient-literature-oriental-and-classical
 gutenberg_issued: '2022-03-22'
 identifiers:
   gutenberg: '67687'
